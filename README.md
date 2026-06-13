@@ -98,7 +98,7 @@ Phase 2 — Networking              ✅ DONE
 Phase 3 — Python Basics           ✅ DONE
 Phase 4 — Cybersecurity Fundamentals ✅ DONE
 Phase 5 — Wireshark + Log Analysis   ✅ DONE
-Phase 6 — SIEM + Splunk              ✅ DONE ← THIS PROJECT
+Phase 6 — SIEM + Splunk              🔄 IN PROGRESS ← THIS PROJECT
 Phase 7 — Portfolio + Resume         🔄 IN PROGRESS
 ```
 
