@@ -185,4 +185,20 @@ Phase 7 — Portfolio + Resume         🔄 IN PROGRESS
 
 ---
 
+
+
+
+## 🗺️ Part of My SOC Analyst Journey
+
+This project is **Phase 6** of my SOC Analyst roadmap:
+
+```
+Phase 1 — Linux Foundation           ✅ DONE
+Phase 2 — Networking                 ✅ DONE
+Phase 3 — Python Basics              ✅ DONE
+Phase 4 — Cybersecurity Fundamentals ✅ DONE
+Phase 5 — Wireshark + Log Analysis   ✅ DONE
+Phase 6 — SIEM + Splunk              🔄 IN PROGRESS ← THIS PROJECT
+Phase 7 — Portfolio + Resume         🔄 IN PROGRESS
+```
 *Part of my cybersecurity portfolio — github.com/leidsct*
