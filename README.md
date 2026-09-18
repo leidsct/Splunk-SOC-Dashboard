@@ -202,3 +202,5 @@ Phase 6 — SIEM + Splunk              🔄 IN PROGRESS ← THIS PROJECT
 Phase 7 — Portfolio + Resume         🔄 IN PROGRESS
 ```
 *Part of my cybersecurity portfolio — github.com/leidsct*
+
+*Part of my cybersecurity portfolio — github.com/leidsct*
